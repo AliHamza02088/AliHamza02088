@@ -1,12 +1,11 @@
 <h1 align="center">Hi, I'm ALI HAMZA </h1>
 <h3 align="center">A passionate Software Engineer From Pakistan</h3>
-# 💫 About Me:
-🔭 I’m currently working as a web developer (backend developer) and DBMS,<br>👯 I’m looking to collaborate with me who know about backend development,<br>🤝 I’m looking for help with someone who know about backend developing techniques.<br>🌱 I’m currently learning Python , Django , Flask ,Fast APi ,SQL DBMS etc,<br>💬 Ask me about  Python , Django , Flask , Fast APIs , SQL and DBMS.<br>
 
-<img align="right" alt="coding" width="400" src = "https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
+<img align="right" alt="coding" width="400" height="300" src = "https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 # 💫 About Me:
-🔭 I’m currently working as a web developer (backend developer) and DBMS,<br>👯 I’m looking to collaborate with someone who knows about backend development,<br>🤝 I’m seeking help from someone who knows backend developing techniques.<br>🌱 I’m currently learning Python, Django, Flask, Fast APi ,SQL DBMS etc,<br>💬 Ask me about  Python, Django, Flask, Fast APIs, SQL and DBMS.<br>
+🔭 I’m currently working as a web developer (backend developer) and DBMS,<br>👯 I’m looking to collaborate with someone who knows about backend development,<br>🤝 I’m seeking help from someone who knows backend developing techniques.<br>🌱 I’m currently learning Python, Django, Flask, Fast API,SQL DBMS, etc,<br>💬 Ask me about  Python, Django, Flask, Fast APIs, SQL, and DBMS.<br>
 
 
 ## 🌐 Socials:
