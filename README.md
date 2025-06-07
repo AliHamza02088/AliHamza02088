@@ -1,6 +1,13 @@
 <h1 align="center">Hi, I'm ALI HAMZA </h1>
 <h3 align="center">A passionate Software Engineer From Pakistan</h3>
 
+<h1 align="center">
+  <img  src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="180"><br>
+<img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" height="32" />
+Hey, nice to see you
+<img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" height="32" />
+</h1>
+
 
 # 💫 About Me:
 🔭 I’m currently working as a web developer (backend developer) and DBMS,<br>👯 I’m looking to collaborate with someone who knows about backend development,<br>🤝 I’m seeking help from someone who knows backend developing techniques.<br>🌱 I’m currently learning Python, Django, Flask, Fast API,SQL DBMS, etc,<br>💬 Ask me about  Python, Django, Flask, Fast APIs, SQL, and DBMS.<br>
@@ -28,4 +35,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=AliHamza02088&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
